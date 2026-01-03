@@ -1,10 +1,20 @@
+// In VencedorEmCristoApp/settings.gradle
+
 pluginManagement {
     repositories {
         google()
         mavenCentral()
         gradlePluginPortal()
     }
+    plugins {
+        // Define the version for the Android Application plugin
+        id 'com.android.application' version '8.4.1' apply false
+
+        // Define the version for the Kotlin Android plugin
+        id 'org.jetbrains.kotlin.android' version '1.9.23' apply false
+    }
 }
+
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -12,5 +22,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "VencedorEmCristo"
-include(":app")
+
+rootProject.name = "VencedorEmCristoApp"
+include ':app'
