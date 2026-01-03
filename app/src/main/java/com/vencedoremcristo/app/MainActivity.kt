@@ -13,28 +13,22 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val webView = findViewById<WebView>(R.id.webView)
-        val bottomNav = findViewById<BottomNavigationView>(R.id.bottomNav)
+        val nav = findViewById<BottomNavigationView>(R.id.bottomNav)
 
         webView.webViewClient = WebViewClient()
         webView.settings.javaScriptEnabled = true
         webView.loadUrl("https://www.youtube.com/@oficialvencedoremcristo")
 
-        bottomNav.setOnItemSelectedListener { item ->
-            when (item.itemId) {
-                R.id.menu_videos -> {
+        nav.setOnItemSelectedListener {
+            when (it.itemId) {
+                R.id.menu_videos ->
                     webView.loadUrl("https://www.youtube.com/@oficialvencedoremcristo/videos")
-                    true
-                }
-                R.id.menu_shorts -> {
+                R.id.menu_shorts ->
                     webView.loadUrl("https://www.youtube.com/@oficialvencedoremcristo/shorts")
-                    true
-                }
-                R.id.menu_posts -> {
+                R.id.menu_posts ->
                     webView.loadUrl("https://www.youtube.com/@oficialvencedoremcristo/community")
-                    true
-                }
-                else -> false
             }
+            true
         }
     }
 }
