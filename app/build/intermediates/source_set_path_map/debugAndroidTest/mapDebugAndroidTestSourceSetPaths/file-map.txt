@@ -1,0 +1,5 @@
+com.vencedoremcristo.app.test.app-androidTest-0 C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\build\generated\res\resValues\androidTest\debug
+com.vencedoremcristo.app.test.app-updated_navigation_xml-1 C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.vencedoremcristo.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.vencedoremcristo.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.vencedoremcristo.app.test.app-debugAndroidTest-4 C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
