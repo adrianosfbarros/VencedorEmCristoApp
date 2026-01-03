@@ -1,12 +1,12 @@
+// In VencedorEmCristoApp/settings.gradle
 pluginManagement {
-    repositories {
-        google()
+    repositories {        google()
         mavenCentral()
         gradlePluginPortal()
     }
     plugins {
-        id "com.android.application" version "8.1.4"
-        id "org.jetbrains.kotlin.android" version "1.9.22"
+        id 'com.android.application' version '8.4.1' apply false
+        id 'org.jetbrains.kotlin.android' version '1.9.23' apply false
     }
 }
 
@@ -17,6 +17,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
 rootProject.name = "VencedorEmCristoApp"
-include(":app")
+include ':app'

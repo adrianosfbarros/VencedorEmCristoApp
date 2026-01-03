@@ -1,9 +1,8 @@
 buildscript {
-    ext.kotlin_version = "1.9.22"
+    ext.kotlin_version = "1.9.23" // Changed from 1.9.22
     repositories {
         google()
-        mavenCentral()
-    }
+        mavenCentral()    }
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath "com.google.gms:google-services:4.4.0"
