@@ -1,5 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/menu_videos" android:title="Vídeos"/>
-    <item android:id="@+id/menu_shorts" android:title="Shorts"/>
-    <item android:id="@+id/menu_posts" android:title="Postagens"/>
+
+    <item
+        android:id="@+id/menu_videos"
+        android:title="Vídeos"
+        android:icon="@android:drawable/ic_media_play" />
+
+    <item
+        android:id="@+id/menu_shorts"
+        android:title="Shorts"
+        android:icon="@android:drawable/ic_menu_slideshow" />
+
+    <item
+        android:id="@+id/menu_posts"
+        android:title="Postagens"
+        android:icon="@android:drawable/ic_menu_edit" />
+
 </menu>

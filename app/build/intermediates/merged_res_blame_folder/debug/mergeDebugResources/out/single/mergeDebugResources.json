@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.vencedoremcristo.app-debug-31:/menu_bottom_menu.xml.flat",
+        "source": "com.vencedoremcristo.app-main-33:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.vencedoremcristo.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.vencedoremcristo.app-main-33:/layout/activity_main.xml"
+    }
+]
