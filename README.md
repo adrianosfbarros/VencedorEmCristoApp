@@ -63,21 +63,6 @@ Android fácil de usar, focado no conteúdo cristão do canal **Vencedor em Cris
 
 ---
 
-## 📂 Estrutura do Projeto
-VencedorEmCristoApp
-├── app
-│ ├── src
-│ │ └── main
-│ │ ├── java/com/vencedoremcristo/app
-│ │ ├── res
-│ │ └── AndroidManifest.xml
-│ └── build.gradle
-├── gradle
-├── build.gradle
-└── settings.gradle
-
----
-
 📌 Requisitos
 
 Android Studio atualizado
