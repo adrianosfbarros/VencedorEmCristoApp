@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_videos" android:title="Vídeos"/>
+    <item android:id="@+id/menu_shorts" android:title="Shorts"/>
+    <item android:id="@+id/menu_posts" android:title="Postagens"/>
+</menu>
