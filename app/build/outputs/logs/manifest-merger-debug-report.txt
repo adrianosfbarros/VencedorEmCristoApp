@@ -46,7 +46,6 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\3420ee9bcc985541a2cc9e76873321db\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\76d61942979747a03778cc8f6ce979ac\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 	package
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:2:5-39
 		INJECTED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml
@@ -55,12 +54,12 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\DESKTOP
 	xmlns:android
 		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:3:5-66
 	android:name
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:3:22-64
 application
-ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:6:5-21:19
-INJECTED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:6:5-21:19
+ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:5:5-20:19
+INJECTED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\599a5935c2166e8e0b398a0aed9a2d82\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\599a5935c2166e8e0b398a0aed9a2d82\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\f179046f4f525c9b4418b30f5c504ee7\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -82,25 +81,25 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\DESKTOP\.gradle\ca
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\bfa76068636005cc017f8d222fde73a4\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:6:9-43
 	android:theme
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:8:9-65
+		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.vencedoremcristo.app.MainActivity
-ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:10:9-19:20
+ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:9:9-18:20
 	android:exported
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:12:13-36
+		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:11:13-36
 	android:name
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:11:13-41
+		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:10:13-65
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:14:13-17:29
+ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:17-68
+ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:16:17-76
+ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml

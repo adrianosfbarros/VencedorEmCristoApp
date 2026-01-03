@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:4:5-66
-11-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:4:22-64
+11-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:3:5-66
+11-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:3:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.12.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\bfa76068636005cc017f8d222fde73a4\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
@@ -24,30 +24,30 @@
 17-->[androidx.core:core:1.12.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\bfa76068636005cc017f8d222fde73a4\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:6:5-21:19
+19-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:5:5-20:19
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.12.0] C:\Users\DESKTOP\.gradle\caches\8.13\transforms\bfa76068636005cc017f8d222fde73a4\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:label="Vencedor em Cristo"
-23-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:7:9-43
+23-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:6:9-43
 24        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-24-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:8:9-65
+24-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:7:9-65
 25        <activity
-25-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:10:9-19:20
+25-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:9:9-18:20
 26            android:name="com.vencedoremcristo.app.MainActivity"
-26-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:11:13-41
+26-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:10:13-65
 27            android:exported="true" >
-27-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:12:13-36
+27-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:11:13-36
 28            <intent-filter>
-28-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:14:13-17:29
+28-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:13:13-16:29
 29                <action android:name="android.intent.action.MAIN" />
-29-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:17-68
-29-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:25-66
+29-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:14:17-69
+29-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:14:25-66
 30
 31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:16:17-76
-31-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:16:27-74
+31-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:17-77
+31-->C:\Users\DESKTOP\Documents\GitHub\VencedorEmCristoApp\app\src\main\AndroidManifest.xml:15:27-74
 32            </intent-filter>
 33        </activity>
 34
