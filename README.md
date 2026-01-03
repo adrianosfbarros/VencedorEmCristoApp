@@ -73,11 +73,11 @@ Dispositivo ou emulador Android (API 21+)
 
 🔮 Próximas Implementações
 
-🔔 Notificações push (Firebase)
-📊 Integração direta com YouTube Data API
-🌙 Modo escuro
-📥 Cache offline de conteúdos
-🚀 Publicação na Google Play Store
+- 🔔 Notificações push (Firebase)
+- 📊 Integração direta com YouTube Data API
+- 🌙 Modo escuro
+- 📥 Cache offline de conteúdos
+- 🚀 Publicação na Google Play Store
 
 ---
 
