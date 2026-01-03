@@ -90,7 +90,7 @@ para que todo aquele que nele crê não pereça, mas tenha a vida eterna.”
 ---
 
 📢 Canal Oficial
-🔗 YouTube: @oficialvencedoremcristo
+- 🔗 YouTube: @oficialvencedoremcristo
 
 ---
 
