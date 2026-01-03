@@ -1,27 +1,17 @@
-// In VencedorEmCristoApp/settings.gradle
-
-pluginManagement {
+buildscript {
     repositories {
         google()
         mavenCentral()
-        gradlePluginPortal()
     }
-    plugins {
-        // Define the version for the Android Application plugin
-        id 'com.android.application' version '8.4.1' apply false
-
-        // Define the version for the Kotlin Android plugin
-        id 'org.jetbrains.kotlin.android' version '1.9.23' apply false
+    dependencies {
+        classpath "com.android.tools.build:gradle:8.2.2"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.22"
     }
 }
 
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+allprojects {
     repositories {
         google()
         mavenCentral()
     }
 }
-
-rootProject.name = "VencedorEmCristoApp"
-include ':app'
